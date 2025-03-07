@@ -1,10 +1,10 @@
-# O Sport Perdeu Foi? 🦁🔴⚫
+# O Santa Cruz Perdeu Foi?
 
 Este é um projeto divertido e interativo que brinca com a frustração dos torcedores do Sport Club do Recife. Ele apresenta uma interface simples onde o usuário pode responder se o time perdeu e ver reações engraçadas conforme a resposta.
 
 ## 📋 Descrição
 
-O site tem uma página principal (`index.html`) que pergunta: **"O Sport Perdeu foi?"**.\
+O site tem uma página principal (`index.html`) que pergunta: **"O Santa Cruz Perdeu foi?"**.\
 Caso o usuário clique em "SIM", ele é redirecionado para `perdeu.html`, onde são exibidos atributos "melhorados" como raiva, mau humor, desconfiança e medo.\
 Se o usuário quiser continuar a jornada da derrota, pode avançar para `perdeuagain.html`, onde os atributos aumentam ainda mais! 😅
 
@@ -20,7 +20,7 @@ Se o usuário quiser continuar a jornada da derrota, pode avançar para `perdeua
 
 1. Faça o download ou clone este repositório.
    ```bash
-   git clone https://github.com/seu-usuario/sport-perdeu.git
+   git clone https://github.com/seu-usuario/santaPerdeu.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
